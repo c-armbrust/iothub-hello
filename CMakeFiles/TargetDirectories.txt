@@ -1,0 +1,3 @@
+/home/pi/iothub-test/CMakeFiles/rebuild_cache.dir
+/home/pi/iothub-test/CMakeFiles/edit_cache.dir
+/home/pi/iothub-test/CMakeFiles/device.dir
