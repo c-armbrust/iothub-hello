@@ -1,3 +1,5 @@
+// Simple example using the _LL_ calls of Devices SDK and threads.
+
 #include "azure_c_shared_utility/platform.h"
 #include "azure_c_shared_utility/threadapi.h"
 #include "azure_c_shared_utility/crt_abstractions.h"
